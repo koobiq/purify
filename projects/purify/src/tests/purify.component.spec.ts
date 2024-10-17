@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { PurifyComponent } from './purify.component';
+import { PurifyComponent } from './../lib/purify.component';
 
 describe('PurifyComponent', () => {
     let component: PurifyComponent;
